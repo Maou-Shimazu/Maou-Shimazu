@@ -1,4 +1,4 @@
-#### Maou Shimazu 🟤
+#### Eldad Danladi aka Maou Shimazu 🟤
 #### University of Belize 🏴
 #### C++ Developer and Rustacean 🦀
 #### Current maintained projects: [Creation Project](https://github.com/Maou-Shimazu/Creation-Project) 💻
