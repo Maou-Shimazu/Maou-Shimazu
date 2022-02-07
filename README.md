@@ -6,4 +6,4 @@
 
 [![Maou's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maou-Shimazu&show_icons=true&theme=onedark)](https://github.com/maou-shimazu/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maou-Shimazu&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Maou's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Maou_Shimazu)](https://github.com/anuraghazra/github-readme-stats)
+[![Maou's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Maou_Shimazu)](https://github.com/maou-shimazu/creation-project)
