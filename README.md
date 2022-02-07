@@ -2,7 +2,7 @@
     University of Belize 🏴
     C++ Developer and Rustacean 🦀
   [![wakatime](https://wakatime.com/badge/user/656eebce-f743-4f8b-a695-772a6b46e7e4.svg?style=flat-square)](https://wakatime.com/@656eebce-f743-4f8b-a695-772a6b46e7e4)
-  ![CodeWars](https://www.codewars.com/users/Maou-Shimazu/badges/small)
+  [![CodeWars](https://www.codewars.com/users/Maou-Shimazu/badges/small)](https://www.codewars.com/users/Maou-Shimazu)
 #### Current maintained projects:
 [![Creation Project](https://github-readme-stats.vercel.app/api/pin/?username=maou-shimazu&repo=Creation-Project)](https://github.com/Maou-Shimazu/Creation-Project)
 
