@@ -24,8 +24,8 @@
 [![Creation Project](https://github-readme-stats.vercel.app/api/pin/?username=maou-shimazu&repo=Creation-Project&theme=blue-green)](https://github.com/Maou-Shimazu/Creation-Project)
 
 ## Github Status
-<img style="width:46%" src="https://github-readme-stats.vercel.app/api?username=Maou-Shimazu&show_icons=true&theme=blue-green" ></img>
-<img style="width:34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maou-Shimazu&langs_count=10&layout=compact&theme=blue-green" ></img>
+<img style="width:50%" src="https://github-readme-stats.vercel.app/api?username=Maou-Shimazu&show_icons=true&theme=blue-green" ></img>
+<img style="width:36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maou-Shimazu&langs_count=10&layout=compact&theme=blue-green" ></img>
 ## <!--align="right"-->
 #### Feel free to contact me.
 <a href="https://discord.gg/CFnQxQ6GdA">
