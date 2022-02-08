@@ -25,8 +25,8 @@
 
 ## Github Status
 <img style="width:40%" src="https://github-readme-stats.vercel.app/api?username=Maou-Shimazu&show_icons=true&theme=blue-green" ></img>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maou-Shimazu&langs_count=10&layout=compact&theme=blue-green" ></img>
-##
+<img style="width:29%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maou-Shimazu&langs_count=10&layout=compact&theme=blue-green" ></img>
+## <!--align="right"-->
 #### Feel free to contact me.
 <a href="https://discord.gg/CFnQxQ6GdA">
 <img align="left" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
