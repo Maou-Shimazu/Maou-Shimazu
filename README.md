@@ -1,3 +1,5 @@
+![Metrics](https://metrics.lecoq.io/Maou-Shimazu?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=America%2FGuatemala)
+
 ## Eldad Danladi, also known to many as Maou Shimazu 🟤
   
 ## I'm a student!
@@ -19,6 +21,7 @@
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Maou-Shimazu&theme=dracula&no-bg=true&no-frame=true)](https://github.com/Maou-Shimazu/)
+
 
 
 ## Currently maintained projects
