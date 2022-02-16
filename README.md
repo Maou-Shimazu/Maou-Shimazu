@@ -1,6 +1,4 @@
 ![Metrics](https://metrics.lecoq.io/Maou-Shimazu?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=America%2FGuatemala)
-
-## Eldad Danladi, also known to many as Maou Shimazu 🟤
   
 ## I'm a student!
 - Associates in Computer Science at University of Belize 🏴
