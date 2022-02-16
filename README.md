@@ -1,4 +1,4 @@
-![Metrics](https://metrics.lecoq.io/Maou-Shimazu?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=America%2FGuatemala)
+![Metrics](https://metrics.lecoq.io/Maou-Shimazu?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=America%2FGuatemala)
   
 ## I'm a student!
 - Associates in Computer Science at University of Belize 🏴
@@ -26,7 +26,7 @@
 [![Creation Project](https://github-readme-stats.vercel.app/api/pin/?username=maou-shimazu&repo=Creation-Project&theme=blue-green)](https://github.com/Maou-Shimazu/Creation-Project)
 [![Creed](https://github-readme-stats.vercel.app/api/pin/?username=maou-shimazu&repo=Creed&theme=blue-green)](https://github.com/Maou-Shimazu/Creed)
 
-## Github Status
+## Coding Status
 <img style="width:55%" src="https://github-readme-stats.vercel.app/api?username=Maou-Shimazu&show_icons=true&theme=blue-green" ></img>
 <img style="width:40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maou-Shimazu&langs_count=8&layout=compact&theme=blue-green" ></img>
 <img style="width:95%" src="https://wakatime.com/share/@Maou_Shimazu/b3ec8c54-d531-46f8-8e35-19dee181697f.svg"></img>
