@@ -27,7 +27,7 @@
 [![Creed](https://github-readme-stats.vercel.app/api/pin/?username=maou-shimazu&repo=Creed&theme=blue-green)](https://github.com/Maou-Shimazu/Creed)
 [![Visual-Creed](https://github-readme-stats.vercel.app/api/pin/?username=maou-shimazu&repo=Visual-Creed&theme=blue-green)](https://github.com/Maou-Shimazu/Visual-Creed)
 
-## Coding Status
+## Coding Stats
 <img style="width:55%" src="https://github-readme-stats.vercel.app/api?username=Maou-Shimazu&show_icons=true&theme=blue-green" ></img>
 <img style="width:40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maou-Shimazu&langs_count=8&layout=compact&theme=blue-green" ></img>
 <img style="width:95%" src="https://wakatime.com/share/@Maou_Shimazu/b3ec8c54-d531-46f8-8e35-19dee181697f.svg"></img>
