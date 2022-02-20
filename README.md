@@ -16,7 +16,6 @@
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![](https://img.shields.io/badge/-Cyber%20Security-1ba70c?style=for-the-badge)
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Maou-Shimazu&theme=dracula&no-bg=true&no-frame=true)](https://github.com/Maou-Shimazu/) -->
 
