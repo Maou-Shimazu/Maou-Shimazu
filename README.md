@@ -6,7 +6,7 @@
 - Im an anime fan 🐱‍🏍
 
 ## Languages and badges.
-[![wakatime](https://wakatime.com/badge/user/656eebce-f743-4f8b-a695-772a6b46e7e4.svg?style=flat-square)](https://wakatime.com/@656eebce-f743-4f8b-a695-772a6b46e7e4)
+[![wakatime](https://wakatime.com/share/@Maou_Shimazu/df104b6a-7038-4e88-9228-cbddc1383f97.svg?style=flat-square)](https://wakatime.com/@656eebce-f743-4f8b-a695-772a6b46e7e4)
 [![CodeWars](https://www.codewars.com/users/Maou-Shimazu/badges/small)](https://www.codewars.com/users/Maou-Shimazu)
   
 ![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
