@@ -24,7 +24,7 @@
 ## Currently maintained projects
 [![Creation Project](https://github-readme-stats.vercel.app/api/pin/?username=maou-shimazu&repo=Creation-Project&theme=blue-green)](https://github.com/Maou-Shimazu/Creation-Project)
 [![Creed](https://github-readme-stats.vercel.app/api/pin/?username=maou-shimazu&repo=Creed&theme=blue-green)](https://github.com/Maou-Shimazu/Creed)
-[![Visual-Creed](https://github-readme-stats.vercel.app/api/pin/?username=maou-shimazu&repo=Visual-Creed&theme=blue-green)](https://github.com/Maou-Shimazu/Visual-Creed)
+[![Imgui-GLFW-VS](https://github-readme-stats.vercel.app/api/pin/?username=maou-shimazu&repo=Imgui-GLFW-VS&theme=blue-green)](https://github.com/Maou-Shimazu/Imgui-GLFW-VS)
 [![Cpp-Plus-Practice](https://github-readme-stats.vercel.app/api/pin/?username=maou-shimazu&repo=Cpp-Plus-Practice&theme=blue-green)](https://github.com/Maou-Shimazu/Cpp-Plus-Practice)
 
 ## Coding Stats
