@@ -25,9 +25,9 @@
 
 ## Currently maintained projects
 [![Creation Project](https://github-readme-stats.vercel.app/api/pin/?username=maou-shimazu&repo=Creation-Project&theme=blue-green)](https://github.com/Maou-Shimazu/Creation-Project)
-[![Creed](https://github-readme-stats.vercel.app/api/pin/?username=maou-shimazu&repo=Creed&theme=blue-green)](https://github.com/Maou-Shimazu/Creed)
+[![Against-The-Sky](https://github-readme-stats.vercel.app/api/pin/?username=maou-shimazu&repo=Against-The-Sky&theme=blue-green)](https://github.com/Maou-Shimazu/Against-The-Sky)
 [![Imgui-GLFW-VS](https://github-readme-stats.vercel.app/api/pin/?username=maou-shimazu&repo=Imgui-GLFW-VS&theme=blue-green)](https://github.com/Maou-Shimazu/Imgui-GLFW-VS)
-[![Cpp-Plus-Practice](https://github-readme-stats.vercel.app/api/pin/?username=maou-shimazu&repo=Cpp-Plus-Practice&theme=blue-green)](https://github.com/Maou-Shimazu/Cpp-Plus-Practice)
+[![Operation-Cpp](https://github-readme-stats.vercel.app/api/pin/?username=maou-shimazu&repo=Operation-Cpp&theme=blue-green)](https://github.com/Maou-Shimazu/Operation-Cpp)
 
 ## Coding Stats
 <img style="width:55%" src="https://github-readme-stats.vercel.app/api?username=Maou-Shimazu&show_icons=true&theme=blue-green" ></img>
