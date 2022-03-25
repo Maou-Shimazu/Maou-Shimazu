@@ -25,7 +25,7 @@
 
 ## Currently maintained projects
 [![Creation Project](https://github-readme-stats.vercel.app/api/pin/?username=maou-shimazu&repo=Creation-Project&theme=blue-green)](https://github.com/Maou-Shimazu/Creation-Project)
-[![Operation-Cpp](https://github-readme-stats.vercel.app/api/pin/?username=maou-shimazu&repo=Operation-Cpp&theme=blue-green)](https://github.com/Maou-Shimazu/Operation-Cpp)
+[![Explicits](https://github-readme-stats.vercel.app/api/pin/?username=maou-shimazu&repo=Explicits&theme=blue-green)](https://github.com/Maou-Shimazu/Explicits)
 [![Overhaul](https://github-readme-stats.vercel.app/api/pin/?username=maou-shimazu&repo=Overhaul&theme=blue-green)](https://github.com/Maou-Shimazu/Overhaul)
 [![Parse-Args](https://github-readme-stats.vercel.app/api/pin/?username=maou-shimazu&repo=Parse-Args&theme=blue-green)](https://github.com/Maou-Shimazu/Parse-Args)
 
