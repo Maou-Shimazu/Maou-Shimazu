@@ -24,7 +24,7 @@
 
 
 ## Currently maintained projects
-[![Project Answers](https://github-readme-stats.vercel.app/api/pin/?username=maou-shimazu&repo=Project-Answers&theme=blue-green)](https://github.com/Maou-Shimazu/Creation-Project)
+[![Projects Answers](https://github-readme-stats.vercel.app/api/pin/?username=maou-shimazu&repo=Projects-Answers&theme=blue-green)](https://github.com/Maou-Shimazu/Projects-Answers)
 [![Explicits](https://github-readme-stats.vercel.app/api/pin/?username=maou-shimazu&repo=Explicits&theme=blue-green)](https://github.com/Maou-Shimazu/Explicits)
 [![Overhaul](https://github-readme-stats.vercel.app/api/pin/?username=maou-shimazu&repo=Overhaul&theme=blue-green)](https://github.com/Maou-Shimazu/Overhaul)
 [![Parse-Args](https://github-readme-stats.vercel.app/api/pin/?username=maou-shimazu&repo=Parse-Args&theme=blue-green)](https://github.com/Maou-Shimazu/Parse-Args)
