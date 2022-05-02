@@ -18,6 +18,7 @@
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/-V-grey?style=for-the-badge&logo=V)
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Maou-Shimazu&theme=dracula&no-bg=true&no-frame=true)](https://github.com/Maou-Shimazu/) -->
 
