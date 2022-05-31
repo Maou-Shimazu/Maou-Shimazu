@@ -22,7 +22,7 @@
 
 ## Currently maintained projects
 [![Projects Answers](https://github-readme-stats.vercel.app/api/pin/?username=maou-shimazu&repo=Projects-Answers&theme=blue-green)](https://github.com/Maou-Shimazu/Projects-Answers)
-[![Cppf](https://github-readme-stats.vercel.app/api/pin/?username=BrandonDoesDev&repo=Cppf&theme=blue-green)](https://github.com/BrandonDoesDev/Cppf)
+[![Console.log](https://github-readme-stats.vercel.app/api/pin/?username=Maou-Shimazu&repo=Console.log&theme=blue-green)](https://github.com/Maou-Shimazu/Console.log)
 [![Overhaul](https://github-readme-stats.vercel.app/api/pin/?username=maou-shimazu&repo=Overhaul&theme=blue-green)](https://github.com/Maou-Shimazu/Overhaul)
 [![Cpp-Project-Manager](https://github-readme-stats.vercel.app/api/pin/?username=maou-shimazu&repo=Cpp-Project-Manager&theme=blue-green)](https://github.com/Maou-Shimazu/Cpp-Project-Manager)
 
