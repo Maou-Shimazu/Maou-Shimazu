@@ -29,7 +29,7 @@
 
 ## Coding Stats
 <img style="width:55%" src="https://github-readme-stats.vercel.app/api?username=Maou-Shimazu&show_icons=true&theme=blue-green" ></img>
-<img style="width:40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maou-Shimazu&langs_count=8&layout=compact&theme=blue-green" ></img>
+<img style="width:40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maou-Shimazu&langs_count=8&layout=compact&theme=blue-green&exclude_repo=Projects-Answers" ></img>
 <img style="width:95%" src="https://wakatime.com/share/@Maou_Shimazu/df104b6a-7038-4e88-9228-cbddc1383f97.svg"></img>
 
 ## <!--align="right"-->
