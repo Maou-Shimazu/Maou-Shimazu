@@ -19,13 +19,13 @@
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Maou-Shimazu&theme=dracula&no-bg=true&no-frame=true)](https://github.com/Maou-Shimazu/) -->
 
 
-
+<!--
 ## Currently maintained projects
 [![Projects Answers](https://github-readme-stats.vercel.app/api/pin/?username=maou-shimazu&repo=Projects-Answers&theme=blue-green)](https://github.com/Maou-Shimazu/Projects-Answers)
 [![cpp-dirs](https://github-readme-stats.vercel.app/api/pin/?username=Maou-Shimazu&repo=cpp-dirs&theme=blue-green)](https://github.com/Maou-Shimazu/cpp-dirs)
 [![UT](https://github-readme-stats.vercel.app/api/pin/?username=maou-shimazu&repo=Universal-Templater&theme=blue-green)](https://github.com/Maou-Shimazu/Universal-Templater)
 [![Cpp-Project-Manager](https://github-readme-stats.vercel.app/api/pin/?username=Cpp-Project-Manager&repo=Cpp-Project-Manager&theme=blue-green)](https://github.com/Cpp-Project-Manager/Cpp-Project-Manager)
-
+-->
 
 ## Coding Stats
 <img style="width:55%" src="https://github-readme-stats.vercel.app/api?username=Maou-Shimazu&show_icons=true&theme=blue-green" ></img>
